@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className=' mx-auto max-w-7xl bg-sky-200 '>
+    <div className=' mx-auto max-w-xl bg-sky-200 '>
       app
     </div>
   )
